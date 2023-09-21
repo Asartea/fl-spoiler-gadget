@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "eslint": "^8.45.0",
+    "eslint-config-standard-with-typescript": "^36.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^16.0.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@types/oojs": "^7.0.0",
+    "@types/oojs-ui": "^0.47.0",
+    "types-mediawiki": "^1.4.0"
+  }
+}
